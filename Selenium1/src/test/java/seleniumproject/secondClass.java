@@ -1,4 +1,4 @@
-package seleniumpeoject;
+package seleniumproject;
 
 public class secondClass {
 
